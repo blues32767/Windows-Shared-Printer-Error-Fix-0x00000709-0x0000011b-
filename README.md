@@ -1,5 +1,5 @@
 # Windows Shared Printer Error Fix (0x00000709 & 0x0000011b)
-
+# Windows 共用印表機錯誤修復（0x00000709 和 0x0000011b）
 [![GitHub release](https://img.shields.io/github/v/release/blues32767/Windows-Shared-Printer-Error-Fix-0x00000709-0x0000011b-.svg)](https://github.com/blues32767/Windows-Shared-Printer-Error-Fix-0x00000709-0x0000011b-/releases)
 [![GitHub stars](https://img.shields.io/github/stars/blues32767/Windows-Shared-Printer-Error-Fix-0x00000709-0x0000011b-.svg)](https://github.com/blues32767/Windows-Shared-Printer-Error-Fix-0x00000709-0x0000011b-/stargazers)
 [![GitHub license](https://img.shields.io/github/license/blues32767/Windows-Shared-Printer-Error-Fix-0x00000709-0x0000011b-.svg)](https://github.com/blues32767/Windows-Shared-Printer-Error-Fix-0x00000709-0x0000011b-/blob/main/LICENSE)
